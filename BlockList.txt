@@ -14353,3 +14353,6 @@ zzxd.mediav.com
 vxcp.de
 players.delight-vr.com
 vteam.focus.de
+ib.anycast.adnxs.com
+px4.ads.linkedin.com
+video.flhe10-1.fbcdn.net
