@@ -14356,3 +14356,8 @@ vteam.focus.de
 ib.anycast.adnxs.com
 px4.ads.linkedin.com
 video.flhe10-1.fbcdn.net
+interst12.com
+propeller-tracking.com
+s4.histats.com
+e.dtscout.com
+t.dtscout.com
