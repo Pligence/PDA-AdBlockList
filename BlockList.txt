@@ -14361,3 +14361,12 @@ propeller-tracking.com
 s4.histats.com
 e.dtscout.com
 t.dtscout.com
+e10204.dsca.akamaiedge.net
+remote-config-prd.uca.cloud.unity3d.com
+thind-gke-usc.prd.data.corp.unity3d.com
+wd.adcolony.xyz
+ads-game-configuration.unityads.unity3d.com
+thind.unityads.unity3d.com
+cdn.pubguru.com
+a3.pubguru.net
+hbopenbid22000nf.pubmatic.com
