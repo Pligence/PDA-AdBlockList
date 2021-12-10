@@ -2184,7 +2184,6 @@ analytics.foresee.com
 analytics.fosrv.com
 analytics.fotoable.net
 analytics.glance.inmobi.com
-analytics.google.com
 analytics.grupogodo.com-v1.edgekey.net
 analytics.htmedia.in
 analytics.icons8.com
@@ -14370,3 +14369,12 @@ thind.unityads.unity3d.com
 cdn.pubguru.com
 a3.pubguru.net
 hbopenbid22000nf.pubmatic.com
+btlr-ap-southeast-1.sharethrough.com
+btlr-cf-ap-southeast-1.sharethrough.com
+btlr-ecs-ap-southeast-1.sharethrough.com
+btlr-ecs-eu-central-1.sharethrough.com
+btlr-ecs-us-east-1.sharethrough.com
+btlr-ecs-us-west-1.sharethrough.com
+btlr-eu-central-1.sharethrough.com
+btlr-us-east-1.sharethrough.com
+btlr.sharethrough.com
