@@ -14379,3 +14379,5 @@ btlr-eu-central-1.sharethrough.com
 btlr-us-east-1.sharethrough.com
 btlr.sharethrough.com
 192.168.100.5
+star.c10r.facebook.com
+star.fallback.c10r.facebook.com
