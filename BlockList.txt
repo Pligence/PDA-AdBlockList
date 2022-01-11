@@ -14381,3 +14381,5 @@ btlr.sharethrough.com
 192.168.100.5
 star.c10r.facebook.com
 star.fallback.c10r.facebook.com
+e673.dsce9.akamaiedge.net
+e69896.dscapi6.akamaiedge.net
