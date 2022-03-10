@@ -14407,3 +14407,5 @@ cs9.wac.phicdn.net
 scontent.fsyd8-1.fna.fbcdn.net
 scontent.fsyd10-1.fna.fbcdn.net
 video.fsyd10-1.fna.fbcdn.net
+external.fsyd8-1.fna.fbcdn.net
+vedeo.fsyd8-1.fna.fbcdn.net
