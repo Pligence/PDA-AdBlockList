@@ -14409,3 +14409,11 @@ scontent.fsyd10-1.fna.fbcdn.net
 video.fsyd10-1.fna.fbcdn.net
 external.fsyd8-1.fna.fbcdn.net
 vedeo.fsyd8-1.fna.fbcdn.net
+video.flhe10-1.fna.fbcdn.net
+scontent.flhe10-1.fna.fbcdn.net
+video.flhe9-1.fna.fbcdn.net
+scontent.flhe9-1.fna.fbcdn.net
+scontent.fkhi21-1.fna.fbcdn.net
+video.fkhi21-1.fna.fbcdn.net
+scontent.fkhi20-1.fna.fbcdn.net
+video.fkhi20-1.fna.fbcdn.net
